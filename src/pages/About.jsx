@@ -28,7 +28,7 @@ function About() {
         />
       </div>
 
-      <div className="relative md:m-5 bg-[url('/imgs/world.jpg')] bg-cover bg-center flex flex-col gap-5 h-[27rem] text-white justify-center">
+      <div className="relative md:m-5 bg-[url('./imgs/world.jpg')] bg-cover bg-center flex flex-col gap-5 h-[27rem] text-white justify-center">
         <div className='absolute inset-0 bg-black opacity-50'></div>
 
         <p className='z-10 text-center xsm:px-2 md:w-1/2'>
@@ -42,7 +42,7 @@ function About() {
         </p>
       </div>
 
-      <div className="relative bg-[url('/imgs/plain.jpg')] md:m-5 transform scale-x-[-1] bg-cover bg-center flex flex-col gap-10 h-[27rem] text-white ">
+      <div className="relative bg-[url('./imgs/plain.jpg')] md:m-5 transform scale-x-[-1] bg-cover bg-center flex flex-col gap-10 h-[27rem] text-white ">
         <div className='transform scale-x-[-1] sm:px-5 md:w-1/2 md:px-6  flex flex-col'>
           <div className='xsm:h-[16rem] xsm:mb-5  xsm:overflow-hidden'>
             <p className='xsm:p-4 text-center'>
