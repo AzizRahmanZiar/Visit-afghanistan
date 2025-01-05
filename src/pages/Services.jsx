@@ -26,7 +26,7 @@ function Services() {
 
         <h1 className=' text-4xl z-10'>Our services</h1>
 
-        <p className='text-center z-10'>
+        <p className='text-center z-10 lg:px-24'>
           AFG ETC offers comprehensive travel services in Afghanistan, from
           expert-guided tours and secure transportation to comfortable
           accommodations and visa assistance, ensuring a seamless and enriching
