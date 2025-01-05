@@ -139,7 +139,7 @@ function Bamyan() {
         </Swiper>
       </div>
 
-      <div className='flex  bg-[url("./imgs/bg-1.jpg")] bg-cover  flex-col  overflow-hidden   justify-between py-5  h-screen'>
+      <div className='flex  bg-[url("/imgs/bg-1.jpg")] bg-cover  flex-col  overflow-hidden   justify-between py-5  h-screen'>
         <div className='flex flex-row lg:p-10 justify-between'>
           <div className='flex flex-col px-2 gap-2 inset-0 text-white'>
             <p className=' flex  z-10 xsm:text-sm xsm:gap-2'>
