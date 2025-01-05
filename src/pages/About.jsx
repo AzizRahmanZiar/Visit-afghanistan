@@ -15,7 +15,7 @@ function About() {
   }, []);
   return (
     <>
-      <div className="relative bg-[url('./imgs/about.jpg')] bg-cover bg-center flex flex-col  gap-5 h-[33.3rem] text-white items-center justify-center">
+      <div className="relative bg-[url('/imgs/about.jpg')] bg-cover bg-center flex flex-col  gap-5 h-[33.3rem] text-white items-center justify-center">
         <div className='absolute inset-0 bg-black opacity-50'></div>
 
         <h1 className='uppercase font-bold text-4xl z-10'>About us</h1>

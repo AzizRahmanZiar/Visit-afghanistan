@@ -11,7 +11,7 @@ function Booking() {
   }, []);
   return (
     <>
-      <div className="relative bg-[url('./imgs/person.png')] bg-cover bg-center flex flex-col gap-5 h-[33.3rem] text-white items-center justify-center">
+      <div className="relative bg-[url('/imgs/person.png')] bg-cover bg-center flex flex-col gap-5 h-[33.3rem] text-white items-center justify-center">
         <div className='absolute inset-0 bg-black opacity-50'></div>
         <div className='flex flex-col gap-5 inset-0 text-center text-white'>
           <h2 className='uppercase font-bold z-10 xsm:px-4  tracking-wider text-2xl'>

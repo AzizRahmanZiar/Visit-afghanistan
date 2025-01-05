@@ -1,7 +1,7 @@
 function Plane() {
   return (
     <>
-      <div className='flex  bg-[url("./imgs/band-a-amir.jpg")] lg:gap-28 overflow-hidden md:flex-row md:justify-between  xsm:flex-col   relative bg-cover xsm:justify-center   bg-center h-[33.3rem]'>
+      <div className='flex  bg-[url("/imgs/band-a-amir.jpg")] lg:gap-28 overflow-hidden md:flex-row md:justify-between  xsm:flex-col   relative bg-cover xsm:justify-center   bg-center h-[33.3rem]'>
         <div className='absolute inset-0 bg-black opacity-50'></div>
         <div className='flex lg:ml-5 flex-col xsm:h-1/2 md:w-1/2 justify-center gap-3 inset-0 text-white xsm:p-3'>
           <h2 className='uppercase font-bold z-10 tracking-wider xsm:text-2xl'>

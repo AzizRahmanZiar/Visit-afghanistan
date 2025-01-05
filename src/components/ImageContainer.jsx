@@ -3,7 +3,7 @@ import ImgaeCard from '../collection/ImgaeCard';
 
 function ImageContainer() {
   return (
-    <div className='bg-[url("./imgs/manzira.jpg")] bg-center pb-10 flex flex-col gap-5 items-center justify-center w-screen'>
+    <div className='bg-[url("/imgs/manzira.jpg")] bg-center pb-10 flex flex-col gap-5 items-center justify-center w-screen'>
       <p className='font-freestyle flex flex-col gap-5 w-full py-3 bg-black bg-opacity-25 z-10 items-center justify-center text-4xl text-white'>
         Special 7-Days Tour of
       </p>

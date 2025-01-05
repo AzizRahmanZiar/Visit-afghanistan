@@ -17,7 +17,7 @@ function Navbar() {
     <div className='relative flex flex-wrap z-50 justify-between items-center text-white p-4 border border-slate-700 bg-slate-900'>
       <div className='flex gap-2'>
         <img
-          src='./imgs/afg.png'
+          src='/imgs/afg.png'
           alt='afg map'
           className='h-8 w-8 filter brightness-0 invert'
         />
