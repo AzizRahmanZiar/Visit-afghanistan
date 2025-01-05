@@ -4,10 +4,10 @@ function Hero() {
       <div className='absolute inset-0 bg-black opacity-50'></div>
 
       <h1 className='uppercase font-freehand text-4xl z-10'>Welcome to</h1>
-      <h2 className='uppercase font-bold tracking-wider text-4xl z-10'>
+      <h2 className='uppercase font-bold tracking-wider xsm:text-2xl text-4xl z-10'>
         Afghanistan
       </h2>
-      <p className='text-center z-10 lg:px-24'>
+      <p className='text-center z-10 md:px-24'>
         AFG ETC offers comprehensive travel services in Afghanistan, from
         expert-guided tours and secure transportation to comfortable
         accommodations and visa assistance, ensuring a seamless and enriching
