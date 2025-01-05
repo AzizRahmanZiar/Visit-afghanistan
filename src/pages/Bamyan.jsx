@@ -155,7 +155,6 @@ function Bamyan() {
                 Transportation (Car & Driver){' '}
               </li>
               <li className='list-disc text-sm'>
-                {' '}
                 Accommodation in Kabul & Bamiyan
               </li>
               <li className='list-disc text-sm'>English-Speaking Tour Guide</li>
